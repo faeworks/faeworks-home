@@ -1,0 +1,9 @@
+{
+  "accentColor": "#d6c5fb",
+  "interfaceFontFamily": "Verdana Pro,Panel Sans,Bonnie,Georgia,Inter,Sculpin,News Gothic Std,Rogue Sans Ext,Prestige Elite Std",
+  "baseFontSize": 14,
+  "textFontFamily": "Verdana Pro,News Gothic Std,Georgia,Source Sans Pro,Uni Sans Book,Skolar Sans Latin Extended,Panel Sans",
+  "monospaceFontFamily": "Monique,GB18030 Bitmap,Panel Sans Mono",
+  "theme": "moonstone",
+  "cssTheme": "Minimal"
+}
